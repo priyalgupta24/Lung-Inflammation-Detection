@@ -29,4 +29,4 @@ We will run most models for 326 steps per epoch (number of batches per epoch) wi
 a batch size of 16.
 
 ## Plan Of Work
-We have trained various models on our kaggle dataset like CNN, Resnet-50, VGG16, etc. For this purpose we have used kaggle notebooks which are attached along with the code. Then we compared and analysed their accuracies to predict the best model.  
+We have trained various models on our kaggle dataset like CNN, Resnet-50, VGG16, etc. For this purpose we have used kaggle notebooks which are attached along with the code. Then we compared and analysed their accuracies to determine the highest accuracy model.  
